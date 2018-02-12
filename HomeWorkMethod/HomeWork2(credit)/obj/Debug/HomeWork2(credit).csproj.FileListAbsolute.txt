@@ -1,0 +1,7 @@
+C:\Users\duk1e\source\repos\HomeWorkMethod\HomeWork2(credit)\bin\Debug\HomeWork2(credit).exe.config
+C:\Users\duk1e\source\repos\HomeWorkMethod\HomeWork2(credit)\bin\Debug\HomeWork2(credit).exe
+C:\Users\duk1e\source\repos\HomeWorkMethod\HomeWork2(credit)\bin\Debug\HomeWork2(credit).pdb
+C:\Users\duk1e\source\repos\HomeWorkMethod\HomeWork2(credit)\obj\Debug\HomeWork2(credit).csproj.CoreCompileInputs.cache
+C:\Users\duk1e\source\repos\HomeWorkMethod\HomeWork2(credit)\obj\Debug\HomeWork2(credit).exe
+C:\Users\duk1e\source\repos\HomeWorkMethod\HomeWork2(credit)\obj\Debug\HomeWork2(credit).pdb
+C:\Users\duk1e\source\repos\HomeWorkMethod\HomeWork2(credit)\obj\Debug\HomeWork2(credit).csprojResolveAssemblyReference.cache

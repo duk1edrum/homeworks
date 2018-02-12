@@ -1,0 +1,7 @@
+C:\Users\duk1e\source\repos\HomeWorkArray\HomeWorkArray\bin\Debug\HomeWorkArray.exe.config
+C:\Users\duk1e\source\repos\HomeWorkArray\HomeWorkArray\bin\Debug\HomeWorkArray.exe
+C:\Users\duk1e\source\repos\HomeWorkArray\HomeWorkArray\bin\Debug\HomeWorkArray.pdb
+C:\Users\duk1e\source\repos\HomeWorkArray\HomeWorkArray\obj\Debug\HomeWorkArray.csprojResolveAssemblyReference.cache
+C:\Users\duk1e\source\repos\HomeWorkArray\HomeWorkArray\obj\Debug\HomeWorkArray.csproj.CoreCompileInputs.cache
+C:\Users\duk1e\source\repos\HomeWorkArray\HomeWorkArray\obj\Debug\HomeWorkArray.exe
+C:\Users\duk1e\source\repos\HomeWorkArray\HomeWorkArray\obj\Debug\HomeWorkArray.pdb

@@ -1,0 +1,7 @@
+C:\Users\duk1e\source\repos\HomeWorkMethod\FactorialRec\obj\Debug\FactorialRec.csprojResolveAssemblyReference.cache
+C:\Users\duk1e\source\repos\HomeWorkMethod\FactorialRec\obj\Debug\FactorialRec.csproj.CoreCompileInputs.cache
+C:\Users\duk1e\source\repos\HomeWorkMethod\FactorialRec\bin\Debug\FactorialRec.exe.config
+C:\Users\duk1e\source\repos\HomeWorkMethod\FactorialRec\bin\Debug\FactorialRec.exe
+C:\Users\duk1e\source\repos\HomeWorkMethod\FactorialRec\bin\Debug\FactorialRec.pdb
+C:\Users\duk1e\source\repos\HomeWorkMethod\FactorialRec\obj\Debug\FactorialRec.exe
+C:\Users\duk1e\source\repos\HomeWorkMethod\FactorialRec\obj\Debug\FactorialRec.pdb

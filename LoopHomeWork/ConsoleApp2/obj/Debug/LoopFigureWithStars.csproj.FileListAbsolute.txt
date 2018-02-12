@@ -1,0 +1,7 @@
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp2\obj\Debug\LoopFigureWithStars.csprojResolveAssemblyReference.cache
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp2\obj\Debug\LoopFigureWithStars.csproj.CoreCompileInputs.cache
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

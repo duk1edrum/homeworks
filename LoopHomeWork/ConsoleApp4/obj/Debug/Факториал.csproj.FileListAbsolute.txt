@@ -1,0 +1,7 @@
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp4\obj\Debug\Факториал.csprojResolveAssemblyReference.cache
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp4\obj\Debug\Факториал.csproj.CoreCompileInputs.cache
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

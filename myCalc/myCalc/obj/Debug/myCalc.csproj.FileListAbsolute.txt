@@ -1,0 +1,7 @@
+C:\Users\duk1e\source\repos\myCalc\myCalc\obj\Debug\myCalc.csprojResolveAssemblyReference.cache
+C:\Users\duk1e\source\repos\myCalc\myCalc\obj\Debug\myCalc.csproj.CoreCompileInputs.cache
+C:\Users\duk1e\source\repos\myCalc\myCalc\bin\Debug\myCalc.exe.config
+C:\Users\duk1e\source\repos\myCalc\myCalc\bin\Debug\myCalc.exe
+C:\Users\duk1e\source\repos\myCalc\myCalc\bin\Debug\myCalc.pdb
+C:\Users\duk1e\source\repos\myCalc\myCalc\obj\Debug\myCalc.exe
+C:\Users\duk1e\source\repos\myCalc\myCalc\obj\Debug\myCalc.pdb

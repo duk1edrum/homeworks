@@ -1,0 +1,7 @@
+C:\Users\duk1e\source\repos\HomeWorkMethod\HomeWorkMethod\bin\Debug\HomeWorkMethod.exe.config
+C:\Users\duk1e\source\repos\HomeWorkMethod\HomeWorkMethod\bin\Debug\HomeWorkMethod.exe
+C:\Users\duk1e\source\repos\HomeWorkMethod\HomeWorkMethod\bin\Debug\HomeWorkMethod.pdb
+C:\Users\duk1e\source\repos\HomeWorkMethod\HomeWorkMethod\obj\Debug\HomeWorkMethod.csprojResolveAssemblyReference.cache
+C:\Users\duk1e\source\repos\HomeWorkMethod\HomeWorkMethod\obj\Debug\HomeWorkMethod.csproj.CoreCompileInputs.cache
+C:\Users\duk1e\source\repos\HomeWorkMethod\HomeWorkMethod\obj\Debug\HomeWorkMethod.exe
+C:\Users\duk1e\source\repos\HomeWorkMethod\HomeWorkMethod\obj\Debug\HomeWorkMethod.pdb

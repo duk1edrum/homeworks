@@ -1,0 +1,7 @@
+C:\Users\duk1e\source\repos\LoopHomeWork\LoopHomeWork\bin\Debug\LoopHomeWork.exe.config
+C:\Users\duk1e\source\repos\LoopHomeWork\LoopHomeWork\bin\Debug\LoopHomeWork.exe
+C:\Users\duk1e\source\repos\LoopHomeWork\LoopHomeWork\bin\Debug\LoopHomeWork.pdb
+C:\Users\duk1e\source\repos\LoopHomeWork\LoopHomeWork\obj\Debug\LoopHomeWork.csprojResolveAssemblyReference.cache
+C:\Users\duk1e\source\repos\LoopHomeWork\LoopHomeWork\obj\Debug\LoopHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\duk1e\source\repos\LoopHomeWork\LoopHomeWork\obj\Debug\LoopHomeWork.exe
+C:\Users\duk1e\source\repos\LoopHomeWork\LoopHomeWork\obj\Debug\LoopHomeWork.pdb

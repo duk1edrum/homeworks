@@ -1,0 +1,7 @@
+C:\Users\duk1e\source\repos\HomeWorkArray\ArrayAdd1\bin\Debug\ArrayAdd1.exe.config
+C:\Users\duk1e\source\repos\HomeWorkArray\ArrayAdd1\bin\Debug\ArrayAdd1.exe
+C:\Users\duk1e\source\repos\HomeWorkArray\ArrayAdd1\bin\Debug\ArrayAdd1.pdb
+C:\Users\duk1e\source\repos\HomeWorkArray\ArrayAdd1\obj\Debug\ArrayAdd1.csprojResolveAssemblyReference.cache
+C:\Users\duk1e\source\repos\HomeWorkArray\ArrayAdd1\obj\Debug\ArrayAdd1.csproj.CoreCompileInputs.cache
+C:\Users\duk1e\source\repos\HomeWorkArray\ArrayAdd1\obj\Debug\ArrayAdd1.exe
+C:\Users\duk1e\source\repos\HomeWorkArray\ArrayAdd1\obj\Debug\ArrayAdd1.pdb

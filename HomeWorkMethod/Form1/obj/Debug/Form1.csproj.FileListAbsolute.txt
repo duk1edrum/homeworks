@@ -1,0 +1,10 @@
+C:\Users\duk1e\source\repos\HomeWorkMethod\Form1\bin\Debug\Form1.exe.config
+C:\Users\duk1e\source\repos\HomeWorkMethod\Form1\bin\Debug\Form1.exe
+C:\Users\duk1e\source\repos\HomeWorkMethod\Form1\bin\Debug\Form1.pdb
+C:\Users\duk1e\source\repos\HomeWorkMethod\Form1\obj\Debug\Form1.csprojResolveAssemblyReference.cache
+C:\Users\duk1e\source\repos\HomeWorkMethod\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\duk1e\source\repos\HomeWorkMethod\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\duk1e\source\repos\HomeWorkMethod\Form1\obj\Debug\Form1.csproj.GenerateResource.Cache
+C:\Users\duk1e\source\repos\HomeWorkMethod\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\duk1e\source\repos\HomeWorkMethod\Form1\obj\Debug\Form1.exe
+C:\Users\duk1e\source\repos\HomeWorkMethod\Form1\obj\Debug\Form1.pdb

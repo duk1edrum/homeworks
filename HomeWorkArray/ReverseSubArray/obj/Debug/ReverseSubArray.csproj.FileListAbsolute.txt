@@ -1,0 +1,7 @@
+C:\Users\duk1e\source\repos\HomeWorkArray\ReverseSubArray\obj\Debug\ReverseSubArray.csproj.CoreCompileInputs.cache
+C:\Users\duk1e\source\repos\HomeWorkArray\ReverseSubArray\bin\Debug\ReverseSubArray.exe.config
+C:\Users\duk1e\source\repos\HomeWorkArray\ReverseSubArray\bin\Debug\ReverseSubArray.exe
+C:\Users\duk1e\source\repos\HomeWorkArray\ReverseSubArray\bin\Debug\ReverseSubArray.pdb
+C:\Users\duk1e\source\repos\HomeWorkArray\ReverseSubArray\obj\Debug\ReverseSubArray.exe
+C:\Users\duk1e\source\repos\HomeWorkArray\ReverseSubArray\obj\Debug\ReverseSubArray.pdb
+C:\Users\duk1e\source\repos\HomeWorkArray\ReverseSubArray\obj\Debug\ReverseSubArray.csprojResolveAssemblyReference.cache

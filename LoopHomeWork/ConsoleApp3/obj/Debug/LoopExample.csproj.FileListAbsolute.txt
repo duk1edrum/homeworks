@@ -1,0 +1,7 @@
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp3\obj\Debug\LoopExample.csproj.CoreCompileInputs.cache
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp3\obj\Debug\LoopExample.csprojResolveAssemblyReference.cache

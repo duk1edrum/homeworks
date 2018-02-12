@@ -1,0 +1,7 @@
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp1\obj\Debug\Sum from A to B.csproj.CoreCompileInputs.cache
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\duk1e\source\repos\LoopHomeWork\ConsoleApp1\obj\Debug\Sum from A to B.csprojResolveAssemblyReference.cache
