@@ -1,0 +1,7 @@
+D:\GIT\Repos\homeworks\HomeWorkClass2\HomeWork3(Invoice)\bin\Debug\HomeWork3(Invoice).exe.config
+D:\GIT\Repos\homeworks\HomeWorkClass2\HomeWork3(Invoice)\bin\Debug\HomeWork3(Invoice).exe
+D:\GIT\Repos\homeworks\HomeWorkClass2\HomeWork3(Invoice)\bin\Debug\HomeWork3(Invoice).pdb
+D:\GIT\Repos\homeworks\HomeWorkClass2\HomeWork3(Invoice)\obj\Debug\HomeWork3(Invoice).csprojResolveAssemblyReference.cache
+D:\GIT\Repos\homeworks\HomeWorkClass2\HomeWork3(Invoice)\obj\Debug\HomeWork3(Invoice).csproj.CoreCompileInputs.cache
+D:\GIT\Repos\homeworks\HomeWorkClass2\HomeWork3(Invoice)\obj\Debug\HomeWork3(Invoice).exe
+D:\GIT\Repos\homeworks\HomeWorkClass2\HomeWork3(Invoice)\obj\Debug\HomeWork3(Invoice).pdb

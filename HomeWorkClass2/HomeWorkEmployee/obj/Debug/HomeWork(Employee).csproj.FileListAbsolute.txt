@@ -1,0 +1,7 @@
+D:\GIT\Repos\homeworks\HomeWorkClass2\HomeWorkEmployee\bin\Debug\HomeWorkEmployee.exe.config
+D:\GIT\Repos\homeworks\HomeWorkClass2\HomeWorkEmployee\bin\Debug\HomeWorkEmployee.exe
+D:\GIT\Repos\homeworks\HomeWorkClass2\HomeWorkEmployee\bin\Debug\HomeWorkEmployee.pdb
+D:\GIT\Repos\homeworks\HomeWorkClass2\HomeWorkEmployee\obj\Debug\HomeWork(Employee).csproj.CoreCompileInputs.cache
+D:\GIT\Repos\homeworks\HomeWorkClass2\HomeWorkEmployee\obj\Debug\HomeWorkEmployee.exe
+D:\GIT\Repos\homeworks\HomeWorkClass2\HomeWorkEmployee\obj\Debug\HomeWorkEmployee.pdb
+D:\GIT\Repos\homeworks\HomeWorkClass2\HomeWorkEmployee\obj\Debug\HomeWork(Employee).csprojResolveAssemblyReference.cache

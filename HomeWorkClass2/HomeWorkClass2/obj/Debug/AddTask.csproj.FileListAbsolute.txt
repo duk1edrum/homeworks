@@ -1,0 +1,7 @@
+D:\GIT\Repos\homeworks\HomeWorkClass2\HomeWorkClass2\bin\Debug\HomeWorkClass2.exe.config
+D:\GIT\Repos\homeworks\HomeWorkClass2\HomeWorkClass2\bin\Debug\HomeWorkClass2.exe
+D:\GIT\Repos\homeworks\HomeWorkClass2\HomeWorkClass2\bin\Debug\HomeWorkClass2.pdb
+D:\GIT\Repos\homeworks\HomeWorkClass2\HomeWorkClass2\obj\Debug\AddTask.csprojResolveAssemblyReference.cache
+D:\GIT\Repos\homeworks\HomeWorkClass2\HomeWorkClass2\obj\Debug\AddTask.csproj.CoreCompileInputs.cache
+D:\GIT\Repos\homeworks\HomeWorkClass2\HomeWorkClass2\obj\Debug\HomeWorkClass2.exe
+D:\GIT\Repos\homeworks\HomeWorkClass2\HomeWorkClass2\obj\Debug\HomeWorkClass2.pdb
